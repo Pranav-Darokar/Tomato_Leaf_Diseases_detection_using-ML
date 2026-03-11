@@ -1,0 +1,19 @@
+# Node
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+frontend/.DS_Store
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/venv/
+backend/.venv/
+
+# Model weights (large binary — add manually or via Git LFS)
+backend/model/best.pt
+
+# Misc
+.DS_Store
+Thumbs.db
